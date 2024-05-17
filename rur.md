@@ -5,7 +5,8 @@
     - Antiutopie
         - Společnost se vyvinula špatným směrem
         - Ray Bradbury: 451 stupňů Fahrenheita
-        - Karel čapek: Válka s mloky
+        - Karel Čapek: Válka s mloky
+        - George Orwell: 1984
         - William Golding: Pán much
     - Existencialismus
         - Albert Camus: Cizinec
@@ -17,9 +18,13 @@
         - Eugéne Ionesco: Plešatá zpěvačka
         - Harold Pinter: Krajina
 - Čeští autoři
+    - Demokratický proud
+        - Spojuje je přispívání do Lidových novin
+        - Karel Poláček: Bylo nás pět
+        - Josef Čapek: Stín kapradin
     - Jaroslav Hašek: Osudy dobrého vojáka Švejka za světové války
     - Vladislav Vančura: Rozmarné léto
-    - Josef Čapek: Dášeňka, čili život štěněte
+    - Josef Čapek: Povídání o pejskovi a kočičce
 
 ## Karel Čapek
 - Praha
@@ -27,16 +32,16 @@
 - Publicista, spisovatel
 - FF v Praze
 - Cestovatel, zemřel na zápal plic
+- Přítel T.G.M.
+
 - Demokratický proud
-    - Přispívání do Lidových novin
-    - Karel Poláček: Bylo nás pět
-    - Josef Čapek: Stín kapradin
 - Pragmatismus
     - filosofický směr
     - absolutní pravda neexistuje, pravda je užitečnost
-    - USA - Charles Peirce
-- Bílá nemoc, Dášeňka, Válka s mloky, Hovory s T.G.M., 
-- Přítel T.G.M.
+    - USA - Charles Peirce: něco o logice relací
+- Antiutopie
+
+- R.U.R., Dášeňka, Válka s mloky, Hovory s T.G.M.
 
 ## Ukázka
 - Zařazení do knihy
@@ -51,6 +56,8 @@
 - Téma: Ostrov vyrábějící roboty nakonec zapříčiní zkázu lidstva
 - Motivy: Lidskost, duše, láska, pracovitost, boží trest, oslava hrdinství člověka (Čapkovo zamýšlené poselství díla)
 - Inspirace 1. světovou - využití techniky proti lidem
+- nomen omen
+    - Jména reprezentují charakteristiky postav
 
 ## Časoprostor
 - V budoucnosti

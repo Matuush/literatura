@@ -7,7 +7,8 @@
     - Antiutopie
         - Společnost se vyvinula špatným směrem
         - Ray Bradbury: 451 stupňů Fahrenheita
-        - Karel čapek: Válka s mloky
+        - Karel Čapek: Válka s mloky
+        - George Orwell: 1984
         - William Golding: Pán much
     - Existencialismus
         - Albert Camus: Cizinec
