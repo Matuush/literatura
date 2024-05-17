@@ -18,7 +18,7 @@
         - Jean Paul Sartre: Zeď
         - Samuel Beckett: Čekání na Godota
 
-## Franz z Kafka
+## Franz Kafka
 - Praha
 - 1883 - 1924
 - Právník, pojišťovatel
