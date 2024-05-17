@@ -29,8 +29,8 @@
 - Cestovatel, zemřel na zápal plic
 - Demokratický proud
     - Přispívání do Lidových novin
-    - Karel Poláček (Bylo nás pět)
-    - Josef Čapek (Stín kapradin)
+    - Karel Poláček: Bylo nás pět
+    - Josef Čapek: Stín kapradin
 - Pragmatismus
     - filosofický směr
     - absolutní pravda neexistuje, pravda je užitečnost
