@@ -4,14 +4,19 @@
 - Divadlo 2. poloviny 20. století
     - Filmy
         - Jiří Menzel: Spalovač mrtvol
-        - Miloš Forman
+        - Miloš Forman: Přelet nad kukaččím hnízdem
     - Rozsáhlá divadla malých forem
         - Malé ansámbly
         - Semafor - SEdm MAlých FORem
         - Husa na provázku
+        - Osvobozené divadlo
+        - D 34
+        - Sklep
     - Směry
         - Společenský román
         - Budovatelský román
+            - Ivan Olbracht: Anna proletářka
+            - Jan Otčenášek: Občan Brych
         - Cimrmanovská mystifikace
 - Komunismus se rozrůstal, nic nedávalo smysl, tak si našli svůj kousek světa
 
