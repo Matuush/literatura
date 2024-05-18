@@ -1,3 +1,4 @@
+    - Ladislav Fuks: Spalovač mrtvol, Pan Theodor Mundstock
 # Spalovač mrtvol
 
 ## Literárně-historický kontext

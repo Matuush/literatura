@@ -9,6 +9,7 @@
     - 60. léta 20. stol.
         - Normalizace
 - Ostatní autoři
+    - Ladislav Fuks: Spalovač mrtvol, Pan Theodor Mundstock
     - Bohumil Hrabal: Obsluhoval jsem anglického krále
     - Jan Otčenášek: Romeo, Julie a tma
     - Arnošt Lustig: Noc a naděje
